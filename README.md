@@ -7,4 +7,3 @@ Vamos a construir parte del interfaz de usuario de la aplicación Socios, una nu
 
 
 
-[Try me!] (http://cimartin.github.io/X-Nav-Practica-Socios/)
