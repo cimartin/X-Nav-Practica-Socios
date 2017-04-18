@@ -1,0 +1,38 @@
+{
+	"items":[{
+
+				"autor": "Bart",
+				"avatar": "images/bart.jpg",
+				"titulo": "Casa de Seymour Skinner",
+				"contenido": "Vamos a casa de Skinner a tirarle huevos.",
+				"fecha": "16/04/17   16:34:23"
+			},
+
+			{
+
+				"autor":"Orugrita",
+				"avatar":"images/orugrita.png",
+				"titulo": "Aaaaaaahhh!!!!",
+				"contenido":"Aaaaaaahhh!!!!",
+				"fecha" :"20/04/17   22:53:06"
+			},
+
+			{
+
+				"autor": "Barney",
+				"avatar": "images/barney.jpg",
+				"titulo": "donde estará mi mondadientes",
+				"contenido":"Brrrrgghhhh",
+				"fecha": "19/04/17   21:09:39"
+			},
+			{
+				"autor":"Homer",
+				"avatar":"images/homer.jpg",
+				"titulo":"Tengo hambre",
+				"contenido":"Celia cuando vayas al Badulaque, tráeme Donuts. Hmmmm Donuts",
+				"fecha": "13/04/17  12:10:03"
+
+			}
+
+]
+}
